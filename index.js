@@ -36,7 +36,7 @@ console.log(
 let absorbtionRate = 1.8;
 let cookedSpaghettiWeight = spaghetti * absorbtionRate;
 console.log(
-  "nset aside a ladleful of the pasta water before draining it, then drain the pasta once it is cooked al dente.",
+  "\nset aside a ladleful of the pasta water before draining it, then drain the pasta once it is cooked al dente.",
   cookedSpaghettiWeight
 );
 let creamySauce = 28;
